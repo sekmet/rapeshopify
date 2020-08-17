@@ -6,7 +6,7 @@ items:
   - class: image
     image:
       alt: PagSeguro
-      src: /images/pagseguro-e-confiavel.png
+      src: /images/mercadopago-og.jpg
     linkUrl: /blog/pagamento-seguro/
     tagline: Informações sobre pagamento
   - class: image

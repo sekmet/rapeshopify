@@ -14,11 +14,11 @@ tagline: >-
   pesticidas e química, ele passa por um processo de peneiragem para ficar
   extrafino e é secado com a energia do sol.
 bannerImage:
-  alt: Aplicação de rapé
-  src: /images/pic01.jpg
+  alt: Aplicacao rape
+  src: /images/rape.jpg
 actions:
   - class: button big
-    label: Nossos produtos
+    label: Comprar rapé
     linkUrl: /loja
 ---
 
